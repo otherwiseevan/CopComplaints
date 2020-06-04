@@ -1,0 +1,32 @@
+{
+    "id": "E0D51B8C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591213441704.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "by_officer",
+        "caption": "by_officer",
+        "totalObservations": 5799,
+        "displayedObservations": 5799,
+        "variables": 3,
+        "cacheKey": "CE514B18",
+        "object": "by_officer",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=by_officer&cache_key=CE514B18&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591213305,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591213441704,
+    "read_only": false,
+    "read_only_alternatives": []
+}

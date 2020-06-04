@@ -1,0 +1,32 @@
+{
+    "id": "1F6AB2E3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591228541979.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "officer_race",
+        "caption": "officer_race",
+        "totalObservations": 3032,
+        "displayedObservations": 3032,
+        "variables": 7,
+        "cacheKey": "4859A23B",
+        "object": "officer_race",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=officer_race&cache_key=4859A23B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1591228227,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591228541979,
+    "read_only": false,
+    "read_only_alternatives": []
+}

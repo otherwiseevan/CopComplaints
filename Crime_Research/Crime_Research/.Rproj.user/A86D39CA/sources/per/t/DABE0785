@@ -1,0 +1,32 @@
+{
+    "id": "DABE0785",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591229669737.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "join3",
+        "caption": "join3",
+        "totalObservations": 3315,
+        "displayedObservations": 3315,
+        "variables": 34,
+        "cacheKey": "6E6D9608",
+        "object": "join3",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=join3&cache_key=6E6D9608&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 217020518514230019,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591229669737,
+    "read_only": false,
+    "read_only_alternatives": []
+}

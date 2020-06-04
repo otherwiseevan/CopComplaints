@@ -1,0 +1,32 @@
+{
+    "id": "C9701A70",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591213653652.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "district_allegations",
+        "caption": "district_allegations",
+        "totalObservations": 113,
+        "displayedObservations": 113,
+        "variables": 6,
+        "cacheKey": "7E56C2FA",
+        "object": "district_allegations",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=district_allegations&cache_key=7E56C2FA&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 4625478292286210101,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591213653652,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,32 @@
+{
+    "id": "CACD983D",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1591230311855.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "expression": "Final_Complaint",
+        "caption": "Final_Complaint",
+        "totalObservations": 3315,
+        "displayedObservations": 3315,
+        "variables": 26,
+        "cacheKey": "7D849ECF",
+        "object": "Final_Complaint",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=Final_Complaint&cache_key=7D849ECF&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8314045280926310432,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1591230311855,
+    "read_only": false,
+    "read_only_alternatives": []
+}
